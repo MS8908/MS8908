@@ -1,4 +1,0 @@
-let first = 35;
-let second = 40;
-let sum = first + second;
-console.log(sum);
